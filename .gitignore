@@ -137,3 +137,6 @@ html/
 
 ######################### Validation Scripts & Testing #########################
 output*/
+
+# VS Code
+settings.json
